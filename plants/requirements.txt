@@ -1,0 +1,14 @@
+conda install Django==2.0.10
+conda install django-heroku==0.3.1
+conda install django-hosts==3.0
+conda install djangorestframework==3.8.2
+conda install gunicorn==19.8.1
+conda install pipenv==2018.7.1
+conda install virtualenv==16.0.0
+conda install virtualenv-clone==0.3.0
+conda install numpy==1.14.3
+conda install Pillow==5.1.0
+conda install sklearn==0.0
+conda install scikit-learn==0.19.1
+conda install scipy==1.1.0
+conda install django-cors-headers==2.4.0
